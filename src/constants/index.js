@@ -400,7 +400,7 @@ const navLinks = [
   const expCards = [
     {
       review:
-        "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+        "Arvind brought creativity and technical expertise to the team, significantly improving our overall performance. His work has been invaluable in delivering faster experiences.",
       imgPath: "/images/siemens.png",
       logoPath: "/images/siemensLogo.png",
       title: "Software Developer Engineer",
